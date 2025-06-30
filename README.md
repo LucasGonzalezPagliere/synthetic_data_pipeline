@@ -61,4 +61,4 @@ python generate_data.py \
 - Use the `--user-prompt` argument to further guide the style or domain of generated data.
 
 ## License
-[Your License Here] 
+Free to use
