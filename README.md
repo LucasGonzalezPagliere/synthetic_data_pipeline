@@ -21,8 +21,8 @@ This project provides a command-line tool to generate high-quality, instruction-
 Run the script from the command line:
 ```sh
 python generate_data.py \
-  -s rude_responses_seed.csv \
-  -o rude_synthetic_data.csv \
+  -s seed_data.csv \
+  -o synthetic_data.csv \
   -m llama3:instruct \
   -n 100 \
   -k 3 \
